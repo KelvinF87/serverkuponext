@@ -1,0 +1,78 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "name": "Bolsa de Cadera Retro",
+      "href": "#",
+      "color": "Salmón",
+      "price": "90.00€",
+      "quantity": 1,
+      "imageSrc": "https://tailwindui.com/plus-assets/img/ecommerce-images/shopping-cart-page-04-product-01.jpg",
+      "imageAlt": "Bolsa de tela color salmón con cremallera a juego, tirador de cremallera gris y cinturón ajustable.",
+      "description": "Una bolsa de cadera elegante y funcional, perfecta para el uso diario. Hecha con tela duradera y con un cinturón ajustable para un ajuste cómodo.",
+      "updatedAt": "2025-02-15",
+      "companyId": 101,
+      "purchaseCount": 250,
+      "viewCount": 1340
+    },
+    {
+      "id": "2",
+      "name": "Bolso Satchel Mediano",
+      "href": "#",
+      "color": "Azul Claro",
+      "price": "35.00€",
+      "quantity": 1,
+      "imageSrc": "https://tailwindui.com/plus-assets/img/ecommerce-images/shopping-cart-page-04-product-02.jpg",
+      "imageAlt": "Frente del bolso satchel con cuerpo de lona azul, correas y asa negras, parte superior con cordón y bolsillo frontal con cremallera.",
+      "description": "Un bolso satchel versátil con un interior espacioso y múltiples compartimentos. Ideal para llevar tus esenciales con estilo.",
+      "updatedAt": "2025-02-15",
+      "companyId": 102,
+      "purchaseCount": 180,
+      "viewCount": 940
+    },
+    {
+      "id": "3",
+      "name": "Cesta Tote con Cremallera",
+      "href": "#",
+      "color": "Blanco",
+      "price": "140.00€",
+      "quantity": 1,
+      "imageSrc": "https://tailwindui.com/plus-assets/img/ecommerce-images/shopping-cart-page-04-product-03.jpg",
+      "imageAlt": "Bolso tote de lona blanca con asas negras y cremallera negra.",
+      "description": "Un bolso tote clásico con un interior amplio y cierre seguro con cremallera. Perfecto para el uso diario o para viajar.",
+      "updatedAt": "2025-02-15",
+      "companyId": 103,
+      "purchaseCount": 95,
+      "viewCount": 670
+    },
+    {
+      "id": "4",
+      "name": "Pluma Maquinada",
+      "href": "#",
+      "color": "Negro",
+      "price": "$16.00",
+      "quantity": 1,
+      "imageSrc": "https://s.alicdn.com/@sc04/kf/HTB1dER.JVzqK1RjSZFCq6zbxVXaS.jpg_720x720q50.jpg",
+      "imageAlt": "Pluma de acero maquinado negra con agarre hexagonal y pequeño logo blanco.",
+      "description": "Una pluma de acero maquinado elegante y duradera con un agarre hexagonal cómodo. Perfecta para tareas de escritura diarias.",
+      "updatedAt": "2025-02-15",
+      "companyId": 104,
+      "purchaseCount": 320,
+      "viewCount": 1580
+    },
+    {
+      "id": "20ae",
+      "name": "Ordenador HP Ryzen 7",
+      "color": "Plata",
+      "price": "700",
+      "quantity": 1,
+      "imageSrc": "https://thumb.pccomponentes.com/w-530-530/articles/1083/10832883/1748-hp-15s-eq2156ns-amd-ryzen-7-5700u-16gb-512gb-ssd-156.jpg",
+      "imageAlt": "",
+      "description": "Procesadores AMD Ryzen™ de la serie 5000\nLos procesadores AMD Ryzen™ de la serie 5000 ofrecen un rendimiento superior, una duración de la batería espectacular y las funciones modernas que necesitas durante tus desplazamientos. [2]\nGráficos AMD Radeon™\nYa sea en juegos o películas, disfruta del alto rendimiento para todo tu entretenimiento.",
+      "updatedAt": "2025-02-16",
+      "companyId": 0,
+      "purchaseCount": 0,
+      "viewCount": 0
+    }
+  ]
+}

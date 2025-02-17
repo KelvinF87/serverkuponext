@@ -1,0 +1,104 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "name": "Throwback Hip Bag",
+      "href": "#",
+      "color": "Salmon",
+      "price": "$90.00",
+      "quantity": 1,
+      "imageSrc": "https://tailwindui.com/plus-assets/img/ecommerce-images/shopping-cart-page-04-product-01.jpg",
+      "imageAlt": "Salmon orange fabric pouch with match zipper, gray zipper pull, and adjustable hip belt."
+    },
+    {
+      "id": 2,
+      "name": "Medium Stuff Satchel",
+      "href": "#",
+      "color": "Blue",
+      "price": "$32.00",
+      "quantity": 1,
+      "imageSrc": "https://tailwindui.com/plus-assets/img/ecommerce-images/shopping-cart-page-04-product-02.jpg",
+      "imageAlt": "Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch."
+    },
+    {
+      "id": 3,
+      "name": "Zip Tote Basket",
+      "href": "#",
+      "color": "White",
+      "price": "$140.00",
+      "quantity": 1,
+      "imageSrc": "https://tailwindui.com/plus-assets/img/ecommerce-images/shopping-cart-page-04-product-03.jpg",
+      "imageAlt": "White canvas tote bag with black handles and a black zipper."
+    },
+    {
+      "id": 4,
+      "name": "Machined Pen",
+      "href": "#",
+      "color": "Black",
+      "price": "$16.00",
+      "quantity": 1,
+      "imageSrc": "https://s.alicdn.com/@sc04/kf/HTB1dER.JVzqK1RjSZFCq6zbxVXaS.jpg_720x720q50.jpg",
+      "imageAlt": "Black machined steel pen with hexagonal grip and small white logo."
+    },
+    {
+      "id": 5,
+      "name": "Brass Bottle Opener",
+      "href": "#",
+      "color": "Brass",
+      "price": "$22.00",
+      "quantity": 1,
+      "imageSrc": "https://tailwindui.com/plus-assets/img/ecommerce-images/shopping-cart-page-04-product-05.jpg",
+      "imageAlt": "Brass bottle opener with a black leather cord."
+    },
+    {
+      "id": 6,
+      "name": "Focus Paper Refill",
+      "href": "#",
+      "color": "White",
+      "price": "$89.00",
+      "quantity": 1,
+      "imageSrc": "https://tailwindui.com/plus-assets/img/ecommerce-images/shopping-cart-page-04-product-06.jpg",
+      "imageAlt": "White paper notebook with black spiral binding and a small white logo."
+    },
+    {
+      "id": 7,
+      "name": "Leather Key Ring",
+      "href": "#",
+      "color": "Brown",
+      "price": "$45.00",
+      "quantity": 1,
+      "imageSrc": "https://tailwindui.com/plus-assets/img/ecommerce-images/shopping-cart-page-04-product-07.jpg",
+      "imageAlt": "Brown leather key ring with a brass clasp."
+    },
+    {
+      "id": 8,
+      "name": "Mini Flashlight",
+      "href": "#",
+      "color": "Silver",
+      "price": "$29.00",
+      "quantity": 1,
+      "imageSrc": "https://tailwindui.com/plus-assets/img/ecommerce-images/shopping-cart-page-04-product-08.jpg",
+      "imageAlt": "Silver mini flashlight with a black lanyard."
+    },
+    {
+      "id": 9,
+      "name": "Ember Mug",
+      "href": "#",
+      "color": "White",
+      "price": "$75.00",
+      "quantity": 1,
+      "imageSrc": "https://tailwindui.com/plus-assets/img/ecommerce-images/shopping-cart-page-04-product-09.jpg",
+      "imageAlt": "White ceramic mug with a black handle and a small white logo."
+    },
+    {
+      "id": 10,
+      "name": "Insulated Water Bottle",
+      "href": "#",
+      "color": "Green",
+      "price": "$48.00",
+      "quantity": 1,
+      "imageSrc": "https://tailwindui.com/plus-assets/img/ecommerce-images/shopping-cart-page-04-product-10.jpg",
+      "imageAlt": "Green insulated water bottle with a black lid and a small white logo."
+    }
+  ]
+}
