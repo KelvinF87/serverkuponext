@@ -20,7 +20,7 @@
     "href": "#",
     "color": "Azul Claro",
     "price": 35,
-    "quantity": "10",
+    "quantity": 10,
     "imageSrc": "https://tailwindui.com/plus-assets/img/ecommerce-images/shopping-cart-page-04-product-02.jpg",
     "imageAlt": "Frente del bolso satchel con cuerpo de lona azul, correas y asa negras, parte superior con cordón y bolsillo frontal con cremallera.",
     "description": "Un bolso satchel versátil con un interior espacioso y múltiples compartimentos. Ideal para llevar tus esenciales con estilo.",
@@ -77,7 +77,7 @@
     "name": "Ordenador Sobremesa PcCom Ready AMD Ryzen 7 5800X / 32GB / 2TB SSD / RTX 4060 Ti",
     "color": "Negro",
     "price": "1299",
-    "quantity": 0,
+    "quantity": 3,
     "imageSrc": "https://thumb.pccomponentes.com/w-530-530/articles/1086/10867125/1470-pccom-ready-amd-ryzen-7-5800x-32gb-2tb-ssd-rtx-4060-ti.jpg",
     "imageAlt": "",
     "description": "Pc Gaming pensado para un uso general en el hogar o en la oficina, el PcCom Ready se presenta como un potente equipo en el que su procesador AMD Ryzen 7, sus 32GB de RAM DDR4, el rápido disco SSD de 2TB M.2 NVMe y la potente gráfica Nvidia RTX 4060 Ti permiten trabajar de forma holgada en muy diferentes tareas, lo que lo hace ideal para entornos domésticos o de oficina.",
@@ -92,7 +92,7 @@
     "name": "Logitech G435 LIGHTSPEED Auriculares Gaming Inalámbricos",
     "color": "Negro",
     "price": "59.90",
-    "quantity": 1,
+    "quantity": 2,
     "imageSrc": "https://thumb.pccomponentes.com/w-530-530/articles/57/577538/1197-logitech-g435-lightspeed-auriculares-gaming-inalambricos-negros.jpg",
     "imageAlt": "",
     "description": "La conectividad inalámbrica LIGHTSPEED y la conectividad Bluetooth de baja latencia te permiten jugar y hablar en PC, Mac, PS5/PS4, smartphones y otros dispositivos con audio Bluetooth. El sonido de calidad para gaming, el audio de gran fidelidad cuidadosamente equilibrado, los drivers de audio de 40 mm y la compatibilidad con Dolby Atmos y Windows Sonic proporcionan el sonido envolvente definitivo para todas tus aventuras de gaming.",
@@ -102,5 +102,20 @@
     "viewCount": 0,
     "cantidad": 0,
     "id": "VZQdVYT"
+  },
+  {
+    "name": "Logitech G305 LightSpeed Ratón Inalámbrico Gaming 12000DPI",
+    "color": "Negro",
+    "price": "45.99",
+    "quantity": "15",
+    "imageSrc": "https://thumb.pccomponentes.com/w-530-530/articles/16/165026/1382-logitech-g305-lightspeed-raton-inalambrico-gaming-12000dpi-negro.jpg",
+    "imageAlt": "",
+    "description": "El Logitech G305 LightSpeed es un ratón inalámbrico que destaca por su precisión y comodidad. Los usuarios aprecian su sensor de alta calidad, su diseño ergonómico y la durabilidad de la pila. A pesar de ser ligero, ofrece una respuesta rápida y es ideal tanto para juegos como para tareas diarias. ",
+    "updatedAt": "2025-02-19",
+    "companyId": 0,
+    "purchaseCount": 0,
+    "viewCount": 0,
+    "cantidad": 0,
+    "id": "47_mT5r"
   }
 ]
