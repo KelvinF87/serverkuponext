@@ -76,7 +76,7 @@
   {
     "name": "Ordenador Sobremesa PcCom Ready AMD Ryzen 7 5800X / 32GB / 2TB SSD / RTX 4060 Ti",
     "color": "Negro",
-    "price": "1299",
+    "price": 1299,
     "quantity": 3,
     "imageSrc": "https://thumb.pccomponentes.com/w-530-530/articles/1086/10867125/1470-pccom-ready-amd-ryzen-7-5800x-32gb-2tb-ssd-rtx-4060-ti.jpg",
     "imageAlt": "",
@@ -91,7 +91,7 @@
   {
     "name": "Logitech G435 LIGHTSPEED Auriculares Gaming Inalámbricos",
     "color": "Negro",
-    "price": "59.90",
+    "price": 59.90,
     "quantity": 2,
     "imageSrc": "https://thumb.pccomponentes.com/w-530-530/articles/57/577538/1197-logitech-g435-lightspeed-auriculares-gaming-inalambricos-negros.jpg",
     "imageAlt": "",
@@ -106,8 +106,8 @@
   {
     "name": "Logitech G305 LightSpeed Ratón Inalámbrico Gaming 12000DPI",
     "color": "Negro",
-    "price": "45.99",
-    "quantity": "15",
+    "price": 45.99,
+    "quantity": 15,
     "imageSrc": "https://thumb.pccomponentes.com/w-530-530/articles/16/165026/1382-logitech-g305-lightspeed-raton-inalambrico-gaming-12000dpi-negro.jpg",
     "imageAlt": "",
     "description": "El Logitech G305 LightSpeed es un ratón inalámbrico que destaca por su precisión y comodidad. Los usuarios aprecian su sensor de alta calidad, su diseño ergonómico y la durabilidad de la pila. A pesar de ser ligero, ofrece una respuesta rápida y es ideal tanto para juegos como para tareas diarias. ",
